@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+}
+
+p {
+    color: purple;
+}
+
+#segundo {
+    background-color: rgb(70, 243, 255);
+    color: brown;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.diferente {
+    background-color: darkorange;
+    color: rgb(228, 228, 228);
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+}
