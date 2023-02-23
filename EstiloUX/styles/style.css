@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Titillium+Web:ital,wght@0,200;1,600&display=swap');
+
+body {
+    background-color: bisque;
+    font-family: 'Quicksand', sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: grey;
+}
+
+header h1 {
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+/* É possível referenciar mais de uma tag no CSS, como por exemplo a header e o h1 que está dentro da header */
+
+header .grid-layout {
+    width: 80%;
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
+header h1 #logo-ux {
+    font-family: 'Titillium Web', cursive;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+/* O # se refere a um id */
+/* O . se refere a uma classe */
+
+h2 {
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
