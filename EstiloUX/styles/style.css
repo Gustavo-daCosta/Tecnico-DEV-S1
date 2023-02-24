@@ -3,7 +3,6 @@
 body {
     background-color: bisque;
     font-family: 'Quicksand', sans-serif;
-    width: 80%;
     margin: 0 auto;
 }
 
@@ -18,10 +17,26 @@ header h1 {
 
 /* É possível referenciar mais de uma tag no CSS, como por exemplo a header e o h1 que está dentro da header */
 
-header .grid-layout {
-    width: 80%;
+.grid-layout {
     margin: 0 auto;
-    background-color: yellowgreen;
+    width: 80%;
+}
+
+main {
+    width: 80%;
+}
+
+header .header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 header h1 #logo-ux {
@@ -32,10 +47,33 @@ header h1 #logo-ux {
     font-size: 30px;
 }
 
-/* O # se refere a um id */
-/* O . se refere a uma classe */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+main section img {
+    width: 100%;
+}
 
 h2 {
     margin-bottom: 30px;
     margin-top: 50px;
+    padding: 10px;
 }
+
+/* aside {
+    width: 20%;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    alig
+} */
+
+/* O # se refere a um id */
+/* O . se refere a uma classe */
+
+/* PADDING: Espaçamento interno */
+/* MARGIN: Espaçamento externo */
