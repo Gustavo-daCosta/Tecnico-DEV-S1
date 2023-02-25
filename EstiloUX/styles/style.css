@@ -64,13 +64,14 @@ h2 {
     padding: 10px;
 }
 
-/* aside {
-    width: 20%;
-    border: 2px solid red;
+footer {
+    background-color: grey;
+    color: white;
+    height: 50px;
     display: flex;
-    justify-content: space-between;
-    alig
-} */
+    justify-content: center;
+    padding-left: 20px;
+}
 
 /* O # se refere a um id */
 /* O . se refere a uma classe */
