@@ -1,18 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Titillium+Web:ital,wght@0,200;1,600&display=swap');
 
+/* Ao fazer um site sempre faça o reset de propriedades */
+
+/* Reset de propriedades */
+* {
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
-    background-color: bisque;
     font-family: 'Quicksand', sans-serif;
     margin: 0 auto;
 }
 
 header {
-    background-color: grey;
+    background-color: #676767;
 }
 
 header h1 {
-    color: white;
     font-family: 'Titillium Web', sans-serif;
+}
+
+main h1, main h2, main h3, main p {
+    color: #676767;
 }
 
 /* É possível referenciar mais de uma tag no CSS, como por exemplo a header e o h1 que está dentro da header */
@@ -22,9 +35,7 @@ header h1 {
     width: 80%;
 }
 
-main {
-    width: 80%;
-}
+/* HEADER */
 
 header .header-flex {
     display: flex;
@@ -33,7 +44,6 @@ header .header-flex {
 }
 
 header nav a {
-    color: white;
     text-decoration: none;
     margin-left: 15px;
     margin-right: 15px;
@@ -47,31 +57,72 @@ header h1 #logo-ux {
     font-size: 30px;
 }
 
+/* MAIN */
+
 main {
+    background-color: #EDECED;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80%;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
-main section img {
+main .colunas-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+article, section {
+    background-color: white;
+}
+
+aside article h3 {
+    display: flex;
+    justify-content: center;
+}
+
+#lapis {
     width: 100%;
 }
 
-h2 {
-    margin-bottom: 30px;
-    margin-top: 50px;
-    padding: 10px;
+/* Section */
+.coluna1 {
+    width: 75%;
 }
 
+/* Aside */
+.coluna2 {
+    border: 2px solid blueviolet;
+    width: 23%;
+}
+
+/* FOOTER */
 footer {
-    background-color: grey;
-    color: white;
-    height: 50px;
+    background-color: #676767;
+    color: #EDECED;
+    height: 65px;
     display: flex;
-    justify-content: center;
+    align-items: center;
     padding-left: 20px;
 }
+
+/* cores:
+background main = #EDECED
+background header = #676767
+*/
+
+/* colors:
+background main = rgb(78, 110, 129)
+background header, article = rgb(46, 56, 64)
+*/
+
+
+/* margin: 10px; = top bottom right left */
+/* margin: 0 10px; =  top/bottom - right/left */
+/* margin: 0 20px 10px; =  top - right/left - bottom */
+/* margin: 0 30px 20px 10px; = top - right - bottom - left */
 
 /* O # se refere a um id */
 /* O . se refere a uma classe */
