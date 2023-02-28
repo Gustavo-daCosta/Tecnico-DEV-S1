@@ -74,17 +74,25 @@ main .colunas-flex {
     margin-top: 15px;
 }
 
+#lapis {
+    width: 100%;
+}
+
+section h2, section h3, section p {
+    margin: 15px 20px;
+}
+
 article, section {
     background-color: white;
+}
+
+aside article {
+    height: 30%;
 }
 
 aside article h3 {
     display: flex;
     justify-content: center;
-}
-
-#lapis {
-    width: 100%;
 }
 
 /* Section */
@@ -96,6 +104,9 @@ aside article h3 {
 .coluna2 {
     border: 2px solid blueviolet;
     width: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 /* FOOTER */
@@ -108,16 +119,10 @@ footer {
     padding-left: 20px;
 }
 
-/* cores:
-background main = #EDECED
-background header = #676767
-*/
-
 /* colors:
 background main = rgb(78, 110, 129)
 background header, article = rgb(46, 56, 64)
 */
-
 
 /* margin: 10px; = top bottom right left */
 /* margin: 0 10px; =  top/bottom - right/left */
