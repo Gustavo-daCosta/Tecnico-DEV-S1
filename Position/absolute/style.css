@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 600px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+section article {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 5%;
+
+    background-color: salmon;
+    border: 1px solid black;
+}
+
+#diferente {
+    background-color: greenyellow;
+    position: relative;
+}
+
+#fechar {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+
+    background-color: blue;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
