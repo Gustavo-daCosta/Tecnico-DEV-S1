@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 600px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+section article {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 5%;
+
+    background-color: salmon;
+    border: 1px solid black;
+}
+
+#diferente {
+    background-color: greenyellow;
+    position: relative;
+    top: 5px;
+    left: 105px;
+}
