@@ -1,0 +1,253 @@
+@font-face {
+    font-family: "Bebas Neue";
+    src: url(../assets/fonts/BebasNeue/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(..\assets\fonts\OpenSans\OpenSans-VariableFont_wdth,wght.ttf);
+    src: url(..\assets\fonts\OpenSans\OpenSans-Italic-VariableFont_wdth,wght.ttf);
+}
+
+
+/* Reset de propriedades */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Grid Layout */
+.grid-layout {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* ========= HEADER ========= */
+header {
+    background-color: #f9003d;
+    height: 60px;
+}
+
+#header-flex {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+header nav {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav a {
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Bebas Neue", cursive;
+    color: white;
+}
+
+/* ========= Seção do Banner ========= */
+#banner {
+    background-image: url(../assets/images/imagem-fundo-banner.png);
+    display: flex;
+    align-items: center;
+    height: 740px;
+}
+
+#titulo {
+    width: 545px;
+}
+
+#titulo h1 {
+    color: white;
+    font-family: "Bebas Neue", cursive;
+    font-size: 96px;
+}
+
+#titulo hr {
+    border-color: #ffaf00;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#titulo h2 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 53px;
+    color: #f9003d;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+/* ========= Seção de Projetos ========= */
+#projetos {
+    height: 800px;
+    background-color: #080324;
+}
+
+#projetos h1 {
+    font-family: "Bebas Neue", cursive;
+    color: #f9003d;
+    font-size: 64px;
+    font-weight: 100;
+    padding-top: 60px;
+}
+
+#projetos img {
+    margin-top: 65px;
+    width: 495px;
+    height: 475px;
+}
+
+#projetos-content {
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+#projetos-text {
+    width: 590px;
+    height: 475px;
+    margin-left: 120px;
+    margin-top: 60px;
+    max-height: 700px;
+}
+
+#projetos-text h3 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#projetos-text h2 {
+    color: #ffaf00;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#projetos-text p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+/* ========= Seção de Informações ========= */
+#informacoes {
+    background-image: url(../assets/images/imagem-fundo-info.png);
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+#informacoes-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.informacoes-item {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.informacoes-box {
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #A259F7;
+    border: 1px solid #A259F7;
+    font-size: 28px;
+}
+
+/* ========= Seção de Endereço ========= */
+#endereco {
+    background-image: url(../assets/images/imagem-fundo-endereco.png);
+    height: 520px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#endereco-content {
+    display: flex;
+    flex-direction: column;
+    margin: 0 400px;
+}
+
+/* TODO: Arrumar o posicionamento do endereço */
+
+#endereco-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+    color: #ffaf00;
+    font-weight: 400;
+}
+
+#endereco-box {
+    /* width: 900px; */
+    width: 100%;
+    height: 205px;
+    background-color: #010010;
+    border: 2px solid #340B65;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#endereco-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: 400;
+    color: #A259F7;
+}
+
+#endereco-mapa {
+    width: 310px;
+    height: 250px;
+    position: relative;
+    bottom: 80px;
+}
+
+/* ========= FOOTER ========= */
+footer {
+    height: 80px;
+    background-color: #f9003d;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18;
+}
+
+/* Return Button */
+#return-button {
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 20%;
+    background-color: #ffaf00;
+}
+
+#seta {
+    width: 45px;
+    height: 45px;
+}
+
+/* !important - Comando para especificar ao CSS que aquele atributo é mais importante que os outros */

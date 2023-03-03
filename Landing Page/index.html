@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
     <title>Landing Page</title>
 </head>
 <body>
     <header>
-        <div class="grid-layout">
+        <div id="header-flex" class="grid-layout">
             <nav>
                 <a href="">Início</a>
                 <a href="">Sobre</a>
@@ -20,19 +20,77 @@
     </header>
     
     <main>
-        <div class="grid-layout">
-            <section id="banner">
-                <div id="titulo">
+        <section id="banner">
+            <div class="grid-layout">
+                <div id="titulo" >
                     <h1>Desenvolvimento de Sistemas 2023</h1>
                     <hr>
                     <h2>Senai Informática</h2>
-                    <img src="assets\mouse.svg" alt="ícone de um mouse">
+                    <img src="assets/icons/mouse.svg" alt="ícone de um mouse">
                 </div>
-            </section>
-        </div>
-        <section id="projetos">
-            <h1>Sobre os projetos</h1>
+            </div>
         </section>
+
+        <section id="projetos">
+            <div class="grid-layout">
+                <h1>Sobre os projetos</h1>
+                <div id="projetos-content">
+                    <img src="assets/images/imagem-seção-sobre.png" alt="Imagem de uma reunião de pessoas">
+                    <div id="projetos-text">
+                        <h3>Participantes</h3>
+                        <h2>Mais de 80 alunos organizados em 16 grupos</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto dicta libero non vitae incidunt! Ab dicta accusamus, nobis provident accusantium distinctio. Esse iure delectus quaerat voluptatibus sequi beatae aliquid est? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla amet ipsa commodi cupiditate omnis! Assumenda minima debitis nemo porro non maxime odio sint earum laborum, eum, harum labore blanditiis odit? Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quasi dolorem, deserunt totam harum tempora tempore mollitia, libero vel qui quibusdam. Debitis aut maiores modi eveniet fugiat temporibus quam nobis?</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="informacoes">
+            <div id="informacoes-flex" class="grid-layout">
+                <div class="informacoes-item">
+                    <h2>Local</h2>
+                    <div class="informacoes-box">
+                        <h3>São Paulo</h3>
+                    </div>
+                </div>
+                <div class="informacoes-item">
+                    <h3>Duração</h3>
+                    <div class="informacoes-box">
+                        <p>90 dias</p>
+                    </div>
+                </div>
+                <div class="informacoes-item">
+                    <h3>Desafios</h3>
+                    <div class="informacoes-box">
+                        <p>+30 desafios</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="endereco">
+            <div id="endereco-content" class="grid-layout">
+                <h1 id="endereco-title">Endereço</h1>
+                <div id="endereco-box">
+                    <h3 id="endereco-text">
+                        Rua Niterói, 180<br>
+                        Centro, São Caetano do Sul - SP<br>
+                        CEP: 09510-200
+                    </h3>
+                    <img id="endereco-mapa" src="assets/images/mapa.png" alt="Mapa">
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>Copyright © 2020 - Escola Senai de Informática</p>
+        </footer>
+
+        <div id="return-button">
+            <a href="#header-flex">
+                <img id="seta" src="assets/icons/material-symbols_arrow-back-rounded.png" alt="Ícone de seta para cima">
+            </a>
+        </div>
     </main>
 </body>
 </html>
