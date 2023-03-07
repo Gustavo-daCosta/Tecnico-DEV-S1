@@ -49,6 +49,33 @@ header nav a {
     color: white;
 }
 
+/* Mobile */
+#menu-hamburger {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    main,footer {
+        display: none;
+    }
+
+    header nav {
+        position: fixed;
+        width: 80vw;
+        height: 100vh;
+        max-width: 360px;
+
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #F9003D;
+    }
+
+    header #menu-hamburger {
+        display: block;
+    }
+}
+
 /* ========= Seção do Banner ========= */
 #banner {
     background-image: url(../assets/images/imagem-fundo-banner.png);
