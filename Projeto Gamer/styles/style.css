@@ -1,0 +1,49 @@
+/* Fontes importadas */
+@font-face {
+    font-family: 'Inter';
+    src: url(../assets/fonts/Inter/Inter-VariableFont_slnt,wght.ttf);
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url(../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
+    font-weight: bolder;
+}
+
+/* Reset de propriedades */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Grid Layout */
+.grid-layout {
+    width: 80%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+header {
+    color: white;
+    background-color: black;
+}
