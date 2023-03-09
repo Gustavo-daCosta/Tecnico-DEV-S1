@@ -20,6 +20,7 @@
 /* Grid Layout */
 .grid-layout {
     width: 80%;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -44,44 +45,31 @@ header nav {
 
 header nav a {
     text-decoration: none;
+    text-transform: uppercase;
     font-size: 18px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 20px black;
     font-family: "Bebas Neue", cursive;
+    padding: 15px 20px;
+    border-radius: 5px;
     color: white;
 }
 
-/* Mobile */
-#menu-hamburger {
-    display: none;
-}
-
-@media screen and (max-width: 767px) {
-    main,footer {
-        display: none;
-    }
-
-    header nav {
-        position: fixed;
-        width: 80vw;
-        height: 100vh;
-        max-width: 360px;
-
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        background-color: #F9003D;
-    }
-
-    header #menu-hamburger {
-        display: block;
-    }
+header nav a:hover {
+    text-shadow: 0px 0px 5px rgba(249, 0, 61, 0.3);
+    background-color: white;
+    color: #F9003D;
 }
 
 /* ========= Seção do Banner ========= */
-#banner {
-    background-image: url(../assets/images/imagem-fundo-banner.png);
+main #banner {
     display: flex;
     align-items: center;
     height: 740px;
+    background-image: url(../assets/images/imagem-fundo-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
 }
 
 #titulo {
@@ -279,3 +267,31 @@ footer {
 }
 
 /* !important - Comando para especificar ao CSS que aquele atributo é mais importante que os outros */
+
+/* Media Querie - Mobile */
+/* HEADER */
+#menu-hamburger {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    header nav {
+        position: fixed;
+        width: 80vw;
+        height: 100vh;
+        max-width: 360px;
+
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #F9003D;
+    }
+
+    header #menu-hamburger {
+        display: block;
+    }
+
+    main,footer {
+        display: none;
+    }
+}
