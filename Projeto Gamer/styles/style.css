@@ -26,6 +26,18 @@
     font-weight: bolder;
 }
 
+/* Exemplos de uso das fontes:
+
+font-family: 'Inter', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+*/
+
+/* Variáveis de ambiente */
+:root {
+    --cor-de-fundo: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
+}
+
 /* Reset de propriedades */
 * {
     margin: 0;
@@ -83,11 +95,64 @@ header {
     height: 25px;
 }
 
-.menu-hamburger, .more-items {
-    display: block;
+/* HEADER => Barra lateral */
+.menu {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    width: 80vw;
+    height: calc(100vh - 60px);
+    background-image: var(--cor-de-fundo);
+    backdrop-filter: blur(45px);
+
+    display: flex;
+    flex-direction: column;
 }
 
-.menu, .user-menu, .header-top, .menu-bar, .more-items-bar {
+/* Propriedade Align Self */
+
+.menu > a {
+    color: white;
+    border-bottom: 1px solid orange;
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    gap: 20px;
+    
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+.menu .redes-sociais {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    width: 100%;
+    
+    position: absolute;
+    bottom: 8px;
+}
+
+.menu a:last-of-type { border: none; }
+
+/* HEADER => Barra lateral - mais usuários */
+.user-menu {
+    position: fixed;
+    top: 60px;
+    right: 0;
+    width: 20vw;
+    height: 30vh;
+    background-image: var(--cor-de-fundo);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-top, .menu-bar, .more-items-bar {
     display: none;
 }
 
