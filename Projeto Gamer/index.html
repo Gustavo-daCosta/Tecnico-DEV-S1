@@ -31,10 +31,11 @@
         <div class="header-bottom">
             <div class="grid-layout header-flex">
                 <!-- Visível apenas no mobile (exceto logo) -->
-                <img class="menu-hamburger" src="assets/icons/mobile/menu-hamburger.svg" alt="Ícone de menu hamburguer">
+                <img onclick="mostrarMenu()" class="menu-hamburger" src="assets/icons/mobile/menu-hamburger.svg" alt="Ícone de menu hamburguer">
+
                 <img class="logo" src="assets/images/logotipo-gamer.svg" alt="Ícone gamer">
 
-                <nav class="menu">
+                <nav class="menu" id="menu">
                     <a href="">Início</a>
                     <a href="">Jogadores</a>
                     <a href="">Equipes</a>
@@ -57,9 +58,9 @@
                     </div>
                 </nav>
                 
-                <img class="more-items" src="assets/icons/mobile/more-items.svg" alt="Ícone de mais opções">
+                <img onclick="mostrarMenuUsuario()" class="more-items" src="assets/icons/mobile/more-items.svg" alt="Ícone de mais opções">
 
-                <div class="user-menu">
+                <div class="user-menu" id="user-menu">
                     <a href=""><img src="assets/icons/person.svg" alt="Ícone link do perfil do usuário"></a>
                     <a href=""><img src="assets/icons/bag.svg" alt="Ícone link d do usuário"></a>
                     <a href=""><img src="assets/icons/search.svg" alt="Ícone link do perfil do usuário"></a>
@@ -67,5 +68,14 @@
             </div>
         </div>
     </header>
+
+    <main>
+        <section class="banner">
+            <h1>Liga Gamers</h1>
+            <button>Sobre</button>
+        </section>
+    </main>
+
+    <script src="./js/script.js"></script>
 </body>
 </html>
