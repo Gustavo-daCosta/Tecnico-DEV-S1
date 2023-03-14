@@ -35,6 +35,7 @@ font-family: 'Titillium Web', sans-serif;
 
 /* Variáveis de ambiente */
 :root {
+    --cor-primaria: rgba(27, 20, 38, 1);
     --cor-de-fundo: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
     --cor-da-borda: linear-gradient(to right bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
 }
@@ -73,7 +74,7 @@ header {
     width: 100vw;
     z-index: 100;
     color: white;
-    background-color: #1B1426;
+    background-color: var(--cor-primaria);
 }
 
 .header-flex {
@@ -176,6 +177,40 @@ header {
 
 .header-top, .menu-bar, .more-items-bar {
     display: none;
+}
+
+/* MAIN */
+main {
+    padding-top: 60px;
+}
+
+main .banner {
+    background-image: url(../assets/images/banner-valorant.png);
+    height: calc(100vh - 60px);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banner h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+    text-shadow: rgba(253, 66, 85, 1) 1px 0 10px;
+}
+
+.banner button {
+    height: 40px;
+    width: 170px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgba(249, 170, 1, 1);
+    color: var(--cor-primaria);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 24px;
 }
 
 /* DESKTOP (>= 768px) */
