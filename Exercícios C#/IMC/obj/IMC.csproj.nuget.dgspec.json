@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Backend\\IMC\\IMC.csproj": {}
+    "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\IMC\\IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Backend\\IMC\\IMC.csproj": {
+    "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\IMC\\IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Backend\\IMC\\IMC.csproj",
+        "projectUniqueName": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\IMC\\IMC.csproj",
         "projectName": "IMC",
-        "projectPath": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Backend\\IMC\\IMC.csproj",
+        "projectPath": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\IMC\\IMC.csproj",
         "packagesPath": "C:\\Users\\51908518855\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Backend\\IMC\\obj\\",
+        "outputPath": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\IMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\51908518855\\AppData\\Roaming\\NuGet\\NuGet.Config",
