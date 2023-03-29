@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\bin\Debug\net7.0\Calculadora de nascimento.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\bin\Debug\net7.0\Calculadora de nascimento.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\bin\Debug\net7.0\Calculadora de nascimento.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\bin\Debug\net7.0\Calculadora de nascimento.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\bin\Debug\net7.0\Calculadora de nascimento.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\refint\Calculadora de nascimento.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\Calculadora de nascimento.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de nascimento\obj\Debug\net7.0\ref\Calculadora de nascimento.dll

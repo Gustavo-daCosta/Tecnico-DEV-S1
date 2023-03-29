@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\bin\Debug\net7.0\Calculadora de idade.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\bin\Debug\net7.0\Calculadora de idade.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\bin\Debug\net7.0\Calculadora de idade.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\bin\Debug\net7.0\Calculadora de idade.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\bin\Debug\net7.0\Calculadora de idade.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\refint\Calculadora de idade.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\Calculadora de idade.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Calculadora de idade\obj\Debug\net7.0\ref\Calculadora de idade.dll
