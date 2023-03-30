@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\bin\Debug\net7.0\Venda de maçãs.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\bin\Debug\net7.0\Venda de maçãs.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\bin\Debug\net7.0\Venda de maçãs.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\bin\Debug\net7.0\Venda de maçãs.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\bin\Debug\net7.0\Venda de maçãs.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\refint\Venda de maçãs.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\Venda de maçãs.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Venda de maçãs\obj\Debug\net7.0\ref\Venda de maçãs.dll

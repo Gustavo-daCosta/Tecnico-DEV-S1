@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\bin\Debug\net7.0\Cálculo do Orçamento.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\bin\Debug\net7.0\Cálculo do Orçamento.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\bin\Debug\net7.0\Cálculo do Orçamento.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\bin\Debug\net7.0\Cálculo do Orçamento.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\bin\Debug\net7.0\Cálculo do Orçamento.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\refint\Cálculo do Orçamento.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\Cálculo do Orçamento.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo do Orçamento\obj\Debug\net7.0\ref\Cálculo do Orçamento.dll

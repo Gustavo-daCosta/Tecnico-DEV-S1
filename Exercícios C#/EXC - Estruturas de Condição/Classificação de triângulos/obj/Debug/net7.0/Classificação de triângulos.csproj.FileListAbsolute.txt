@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\bin\Debug\net7.0\Classificação de triângulos.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\bin\Debug\net7.0\Classificação de triângulos.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\bin\Debug\net7.0\Classificação de triângulos.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\bin\Debug\net7.0\Classificação de triângulos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\bin\Debug\net7.0\Classificação de triângulos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\refint\Classificação de triângulos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\Classificação de triângulos.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Classificação de triângulos\obj\Debug\net7.0\ref\Classificação de triângulos.dll

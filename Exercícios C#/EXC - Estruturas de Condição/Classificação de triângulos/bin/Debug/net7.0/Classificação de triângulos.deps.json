@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Classificação de triângulos/1.0.0": {
+        "runtime": {
+          "Classificação de triângulos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classificação de triângulos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
