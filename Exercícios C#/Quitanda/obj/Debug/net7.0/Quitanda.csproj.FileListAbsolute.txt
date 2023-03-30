@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\bin\Debug\net7.0\Quitanda.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\bin\Debug\net7.0\Quitanda.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\bin\Debug\net7.0\Quitanda.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\bin\Debug\net7.0\Quitanda.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\bin\Debug\net7.0\Quitanda.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\refint\Quitanda.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\Quitanda.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Quitanda\obj\Debug\net7.0\ref\Quitanda.dll
