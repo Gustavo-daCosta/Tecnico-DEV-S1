@@ -2,7 +2,7 @@
 
 Console.Write($"Digite a quantidade maçãs que você deseja comprar: ");
 int quantidadeMacas = int.Parse(Console.ReadLine()!);
-
+    
 float valor = quantidadeMacas * (float)(quantidadeMacas >= 12 ? 0.25 : 0.3);
 
 Console.WriteLine($"Valor total da compra: R${Math.Round(valor, 2)}");

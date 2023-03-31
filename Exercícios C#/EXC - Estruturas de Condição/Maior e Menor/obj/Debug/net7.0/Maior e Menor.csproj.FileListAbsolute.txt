@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\bin\Debug\net7.0\Maior e Menor.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\bin\Debug\net7.0\Maior e Menor.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\bin\Debug\net7.0\Maior e Menor.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\bin\Debug\net7.0\Maior e Menor.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\bin\Debug\net7.0\Maior e Menor.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\refint\Maior e Menor.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\Maior e Menor.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Maior e Menor\obj\Debug\net7.0\ref\Maior e Menor.dll

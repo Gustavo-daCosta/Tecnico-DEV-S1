@@ -15,4 +15,6 @@ if (frequencia >= 75 && media >= 7) {
     Console.WriteLine($"O aluno foi aprovado");
 } else if (frequencia >= 75 && media >= 3) {
     Console.WriteLine($"O aluno tem direito a uma última avaliação de recuperação para não ser reprovado.");
+} else {
+    Console.WriteLine($"O aluno foi reprovado.");
 }

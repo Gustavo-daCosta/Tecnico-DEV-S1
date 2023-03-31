@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\bin\Debug\net7.0\Cálculo de Circunferência.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\bin\Debug\net7.0\Cálculo de Circunferência.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\bin\Debug\net7.0\Cálculo de Circunferência.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\bin\Debug\net7.0\Cálculo de Circunferência.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\bin\Debug\net7.0\Cálculo de Circunferência.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\refint\Cálculo de Circunferência.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\Cálculo de Circunferência.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Cálculo de Circunferência\obj\Debug\net7.0\ref\Cálculo de Circunferência.dll

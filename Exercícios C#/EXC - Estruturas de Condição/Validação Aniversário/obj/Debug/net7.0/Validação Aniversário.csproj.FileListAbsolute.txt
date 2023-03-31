@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\bin\Debug\net7.0\Validação Aniversário.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\bin\Debug\net7.0\Validação Aniversário.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\bin\Debug\net7.0\Validação Aniversário.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\bin\Debug\net7.0\Validação Aniversário.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\bin\Debug\net7.0\Validação Aniversário.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\refint\Validação Aniversário.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\Validação Aniversário.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Validação Aniversário\obj\Debug\net7.0\ref\Validação Aniversário.dll

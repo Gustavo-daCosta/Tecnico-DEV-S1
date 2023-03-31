@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\bin\Debug\net7.0\Verificação de Vogais.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\bin\Debug\net7.0\Verificação de Vogais.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\bin\Debug\net7.0\Verificação de Vogais.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\bin\Debug\net7.0\Verificação de Vogais.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\bin\Debug\net7.0\Verificação de Vogais.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\refint\Verificação de Vogais.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\Verificação de Vogais.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Verificação de Vogais\obj\Debug\net7.0\ref\Verificação de Vogais.dll

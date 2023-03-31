@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\bin\Debug\net7.0\Suspeita de crime.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\bin\Debug\net7.0\Suspeita de crime.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\bin\Debug\net7.0\Suspeita de crime.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\bin\Debug\net7.0\Suspeita de crime.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\bin\Debug\net7.0\Suspeita de crime.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\refint\Suspeita de crime.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\Suspeita de crime.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\EXC - Estruturas de Condição\Suspeita de crime\obj\Debug\net7.0\ref\Suspeita de crime.dll

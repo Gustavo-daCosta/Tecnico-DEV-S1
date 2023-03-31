@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cálculo de Circunferência/1.0.0": {
+        "runtime": {
+          "Cálculo de Circunferência.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo de Circunferência/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
