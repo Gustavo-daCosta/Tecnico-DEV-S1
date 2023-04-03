@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\bin\Debug\net7.0\Escolha de Bebidas.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\bin\Debug\net7.0\Escolha de Bebidas.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\bin\Debug\net7.0\Escolha de Bebidas.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\bin\Debug\net7.0\Escolha de Bebidas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\bin\Debug\net7.0\Escolha de Bebidas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\refint\Escolha de Bebidas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\Escolha de Bebidas.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Switch Case C#\Escolha de Bebidas\obj\Debug\net7.0\ref\Escolha de Bebidas.dll
