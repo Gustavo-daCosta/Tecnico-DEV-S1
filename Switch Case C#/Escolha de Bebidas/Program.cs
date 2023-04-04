@@ -17,14 +17,13 @@ Console.WriteLine(@$"
 |    (1) Coca-Cola        |
 |    (2) Pepsi            |
 |    (3) Guaraná          |
-|    (4) Fanta            |
-|    (5) Monster          |
+|    (4) RedBull          |
+|    (5) Água de Coco     |
 |                         |
 \-------------------------/
 ");
 Console.Write($"Informe o número da bebida: ");
 int bebida = int.Parse(Console.ReadLine()!);
-
 string nomeBebida = "";
 
 switch (bebida) {
@@ -45,11 +44,60 @@ switch (bebida) {
         break;
     default:
         Console.WriteLine("Pedido inválido!");
-        return;
+        return; // Encerra o programa caso a escolha seja inválida
 }
 
-Console.Write($"Deseja adicionar gelo a sua bebida? [Sim/Não] ");
-string gelo = Console.ReadLine()!.ToUpper();
-gelo = gelo == "SIM" ? "com gelo" : "sem gelo";
+Console.WriteLine(@$"
+/---------------------------------\
+| Escolha o tamanho da {nomeBebida, -9}! |
+|---------------------------------|
+|       Tamanhos:                 |
+|                                 |
+|       (1) 300ml                 |
+|       (2) 500ml                 |
+|       (3) 700ml                 |
+|       (4) 1L                    |
+|       (5) 2L                    |
+|                                 |
+\---------------------------------/
+");
+Console.Write($"Informe o número do tamanho da bebida: ");
+int tamanho = int.Parse(Console.ReadLine()!);
+string tamanhoNome = "";
 
-Console.WriteLine($"Pedido final: {nomeBebida} {gelo}");
+switch (tamanho) {
+    case 1:
+        tamanhoNome = "300ml";
+        break;
+    case 2:
+        tamanhoNome = "500ml";
+        break;
+    case 3:
+        tamanhoNome = "700ml";
+        break;
+    case 4:
+        tamanhoNome = "1L";
+        break;
+    case 5:
+        tamanhoNome = "2L";
+        break;
+    default:
+        Console.WriteLine("Opção inválida!");
+        return; // Encerra o programa caso a escolha seja inválida
+}
+
+Console.Write($"Deseja adicionar gelo a sua bebida? [S/N] ");
+char gelo = char.Parse(Console.ReadLine()!.ToUpper());
+string temGelo = gelo == 'S' ? "Sim" : "Não";
+
+Console.WriteLine(@$"
+╔═══════════════════════════════════════════╗
+║                PEDIDO FINAL               ║
+╠═══════════════════════════════════════════╣
+║                                           ║
+║             Bebida: {nomeBebida, -11}           ║
+║             Tamanho: {tamanhoNome, -12}         ║
+║             Tem gelo? {temGelo, -8}            ║
+║                                           ║
+╚═══════════════════════════════════════════╝
+");
