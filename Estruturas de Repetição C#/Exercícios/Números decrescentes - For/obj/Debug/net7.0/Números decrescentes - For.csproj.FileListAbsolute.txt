@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\bin\Debug\net7.0\Números decrescentes - For.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\bin\Debug\net7.0\Números decrescentes - For.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\bin\Debug\net7.0\Números decrescentes - For.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\bin\Debug\net7.0\Números decrescentes - For.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\bin\Debug\net7.0\Números decrescentes - For.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\refint\Números decrescentes - For.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\Números decrescentes - For.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números decrescentes - For\obj\Debug\net7.0\ref\Números decrescentes - For.dll

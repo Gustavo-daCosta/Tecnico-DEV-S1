@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\bin\Debug\net7.0\Idade Artista - Do While.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\bin\Debug\net7.0\Idade Artista - Do While.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\bin\Debug\net7.0\Idade Artista - Do While.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\bin\Debug\net7.0\Idade Artista - Do While.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\bin\Debug\net7.0\Idade Artista - Do While.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\refint\Idade Artista - Do While.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\Idade Artista - Do While.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Idade Artista - Do While\obj\Debug\net7.0\ref\Idade Artista - Do While.dll

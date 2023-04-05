@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\bin\Debug\net7.0\Números inteiros - For.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\bin\Debug\net7.0\Números inteiros - For.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\bin\Debug\net7.0\Números inteiros - For.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\bin\Debug\net7.0\Números inteiros - For.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\bin\Debug\net7.0\Números inteiros - For.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\refint\Números inteiros - For.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\Números inteiros - For.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Números inteiros - For\obj\Debug\net7.0\ref\Números inteiros - For.dll

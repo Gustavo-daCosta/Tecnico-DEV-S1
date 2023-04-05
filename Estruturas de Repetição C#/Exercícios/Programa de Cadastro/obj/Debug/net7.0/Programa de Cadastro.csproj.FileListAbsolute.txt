@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\bin\Debug\net7.0\Programa de Cadastro.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\bin\Debug\net7.0\Programa de Cadastro.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\bin\Debug\net7.0\Programa de Cadastro.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\bin\Debug\net7.0\Programa de Cadastro.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\bin\Debug\net7.0\Programa de Cadastro.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\refint\Programa de Cadastro.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\Programa de Cadastro.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Programa de Cadastro\obj\Debug\net7.0\ref\Programa de Cadastro.dll
