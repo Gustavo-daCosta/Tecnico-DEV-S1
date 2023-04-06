@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\bin\Debug\net7.0\Cadastro de usuário e senha.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\bin\Debug\net7.0\Cadastro de usuário e senha.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\bin\Debug\net7.0\Cadastro de usuário e senha.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\bin\Debug\net7.0\Cadastro de usuário e senha.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\bin\Debug\net7.0\Cadastro de usuário e senha.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\refint\Cadastro de usuário e senha.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\Cadastro de usuário e senha.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de usuário e senha\obj\Debug\net7.0\ref\Cadastro de usuário e senha.dll

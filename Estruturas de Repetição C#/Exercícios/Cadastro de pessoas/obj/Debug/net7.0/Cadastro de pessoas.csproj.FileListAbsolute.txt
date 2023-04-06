@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\bin\Debug\net7.0\Cadastro de pessoas.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\bin\Debug\net7.0\Cadastro de pessoas.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\bin\Debug\net7.0\Cadastro de pessoas.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\bin\Debug\net7.0\Cadastro de pessoas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\bin\Debug\net7.0\Cadastro de pessoas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\refint\Cadastro de pessoas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\Cadastro de pessoas.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Cadastro de pessoas\obj\Debug\net7.0\ref\Cadastro de pessoas.dll

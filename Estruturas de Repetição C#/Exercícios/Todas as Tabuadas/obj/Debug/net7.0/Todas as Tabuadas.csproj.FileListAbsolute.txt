@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\bin\Debug\net7.0\Todas as Tabuadas.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\bin\Debug\net7.0\Todas as Tabuadas.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\bin\Debug\net7.0\Todas as Tabuadas.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\bin\Debug\net7.0\Todas as Tabuadas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\bin\Debug\net7.0\Todas as Tabuadas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\refint\Todas as Tabuadas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\Todas as Tabuadas.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Todas as Tabuadas\obj\Debug\net7.0\ref\Todas as Tabuadas.dll

@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\bin\Debug\net7.0\Pesquisa de Mercado.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\bin\Debug\net7.0\Pesquisa de Mercado.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\bin\Debug\net7.0\Pesquisa de Mercado.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\bin\Debug\net7.0\Pesquisa de Mercado.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\bin\Debug\net7.0\Pesquisa de Mercado.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\refint\Pesquisa de Mercado.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\Pesquisa de Mercado.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Pesquisa de Mercado\obj\Debug\net7.0\ref\Pesquisa de Mercado.dll

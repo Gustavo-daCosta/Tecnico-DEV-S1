@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = For_Loop
-build_property.ProjectDir = c:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\For Loop\
+build_property.RootNamespace = Tabuada
+build_property.ProjectDir = C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Tabuada\
