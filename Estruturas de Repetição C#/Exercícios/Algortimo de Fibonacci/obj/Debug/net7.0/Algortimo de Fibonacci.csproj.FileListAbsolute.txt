@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\bin\Debug\net7.0\Algortimo de Fibonacci.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\bin\Debug\net7.0\Algortimo de Fibonacci.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\bin\Debug\net7.0\Algortimo de Fibonacci.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\bin\Debug\net7.0\Algortimo de Fibonacci.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\bin\Debug\net7.0\Algortimo de Fibonacci.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\refint\Algortimo de Fibonacci.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\Algortimo de Fibonacci.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Estruturas de Repetição C#\Exercícios\Algortimo de Fibonacci\obj\Debug\net7.0\ref\Algortimo de Fibonacci.dll
