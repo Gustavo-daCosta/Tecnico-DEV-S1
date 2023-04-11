@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\bin\Debug\net7.0\Par ou Ímpar.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\bin\Debug\net7.0\Par ou Ímpar.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\bin\Debug\net7.0\Par ou Ímpar.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\bin\Debug\net7.0\Par ou Ímpar.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\bin\Debug\net7.0\Par ou Ímpar.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\refint\Par ou Ímpar.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\Par ou Ímpar.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Par ou Ímpar\obj\Debug\net7.0\ref\Par ou Ímpar.dll

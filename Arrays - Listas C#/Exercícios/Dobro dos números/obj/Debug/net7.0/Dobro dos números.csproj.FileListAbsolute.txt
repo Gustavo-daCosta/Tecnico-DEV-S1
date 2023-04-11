@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\bin\Debug\net7.0\Dobro dos números.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\bin\Debug\net7.0\Dobro dos números.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\bin\Debug\net7.0\Dobro dos números.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\bin\Debug\net7.0\Dobro dos números.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\bin\Debug\net7.0\Dobro dos números.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\refint\Dobro dos números.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\Dobro dos números.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Exercícios\Dobro dos números\obj\Debug\net7.0\ref\Dobro dos números.dll

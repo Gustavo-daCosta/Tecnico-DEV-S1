@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\bin\Debug\net7.0\Arrays - Listas C#.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\bin\Debug\net7.0\Arrays - Listas C#.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\bin\Debug\net7.0\Arrays - Listas C#.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\bin\Debug\net7.0\Arrays - Listas C#.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\bin\Debug\net7.0\Arrays - Listas C#.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\refint\Arrays - Listas C#.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\Arrays - Listas C#.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\obj\Debug\net7.0\ref\Arrays - Listas C#.dll

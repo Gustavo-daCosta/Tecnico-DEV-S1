@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\bin\Debug\net7.0\Sem Array.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\bin\Debug\net7.0\Sem Array.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\bin\Debug\net7.0\Sem Array.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\bin\Debug\net7.0\Sem Array.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\bin\Debug\net7.0\Sem Array.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\refint\Sem Array.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\Sem Array.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Arrays - Listas C#\Introdução\Sem Array\obj\Debug\net7.0\ref\Sem Array.dll
