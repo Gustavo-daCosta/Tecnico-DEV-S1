@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\bin\Debug\net7.0\Introdução.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\bin\Debug\net7.0\Introdução.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\bin\Debug\net7.0\Introdução.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\bin\Debug\net7.0\Introdução.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\bin\Debug\net7.0\Introdução.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\refint\Introdução.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\Introdução.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Introdução\obj\Debug\net7.0\ref\Introdução.dll

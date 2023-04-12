@@ -1,0 +1,23 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\bin\Debug\net7.0\Método de Soma.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\bin\Debug\net7.0\Método de Soma.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\bin\Debug\net7.0\Método de Soma.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\bin\Debug\net7.0\Método de Soma.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\bin\Debug\net7.0\Método de Soma.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\refint\Método de Soma.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\Método de Soma.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Método de Soma\obj\Debug\net7.0\ref\Método de Soma.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\refint\Método de Soma.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Calculadora\obj\Debug\net7.0\Método de Soma.pdb
