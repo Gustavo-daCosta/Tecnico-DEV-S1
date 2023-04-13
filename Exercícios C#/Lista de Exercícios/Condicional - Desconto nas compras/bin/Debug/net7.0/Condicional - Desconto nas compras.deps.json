@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Condicional - Desconto nas compras/1.0.0": {
+        "runtime": {
+          "Condicional - Desconto nas compras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condicional - Desconto nas compras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

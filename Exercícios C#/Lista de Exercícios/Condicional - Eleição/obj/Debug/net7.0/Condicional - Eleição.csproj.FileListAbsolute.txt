@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\bin\Debug\net7.0\Condicional - Eleição.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\bin\Debug\net7.0\Condicional - Eleição.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\bin\Debug\net7.0\Condicional - Eleição.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\bin\Debug\net7.0\Condicional - Eleição.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\bin\Debug\net7.0\Condicional - Eleição.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\refint\Condicional - Eleição.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\Condicional - Eleição.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Eleição\obj\Debug\net7.0\ref\Condicional - Eleição.dll

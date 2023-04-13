@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\bin\Debug\net7.0\Vetores - Cadastro de pessoas.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\bin\Debug\net7.0\Vetores - Cadastro de pessoas.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\bin\Debug\net7.0\Vetores - Cadastro de pessoas.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\bin\Debug\net7.0\Vetores - Cadastro de pessoas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\bin\Debug\net7.0\Vetores - Cadastro de pessoas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\refint\Vetores - Cadastro de pessoas.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\Vetores - Cadastro de pessoas.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Cadastro de pessoas\obj\Debug\net7.0\ref\Vetores - Cadastro de pessoas.dll

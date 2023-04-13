@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\bin\Debug\net7.0\Condicional - Desconto nas compras.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\bin\Debug\net7.0\Condicional - Desconto nas compras.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\bin\Debug\net7.0\Condicional - Desconto nas compras.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\bin\Debug\net7.0\Condicional - Desconto nas compras.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\bin\Debug\net7.0\Condicional - Desconto nas compras.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\refint\Condicional - Desconto nas compras.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\Condicional - Desconto nas compras.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Desconto nas compras\obj\Debug\net7.0\ref\Condicional - Desconto nas compras.dll

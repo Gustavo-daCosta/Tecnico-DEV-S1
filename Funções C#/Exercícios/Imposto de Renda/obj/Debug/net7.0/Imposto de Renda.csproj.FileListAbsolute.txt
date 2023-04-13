@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\bin\Debug\net7.0\Imposto de Renda.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\bin\Debug\net7.0\Imposto de Renda.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\bin\Debug\net7.0\Imposto de Renda.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\bin\Debug\net7.0\Imposto de Renda.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\bin\Debug\net7.0\Imposto de Renda.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\refint\Imposto de Renda.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\Imposto de Renda.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Funções C#\Exercícios\Imposto de Renda\obj\Debug\net7.0\ref\Imposto de Renda.dll

@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\bin\Debug\net7.0\Condicional - Posto de Gasolina.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\bin\Debug\net7.0\Condicional - Posto de Gasolina.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\bin\Debug\net7.0\Condicional - Posto de Gasolina.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\bin\Debug\net7.0\Condicional - Posto de Gasolina.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\bin\Debug\net7.0\Condicional - Posto de Gasolina.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\refint\Condicional - Posto de Gasolina.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\Condicional - Posto de Gasolina.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Condicional - Posto de Gasolina\obj\Debug\net7.0\ref\Condicional - Posto de Gasolina.dll

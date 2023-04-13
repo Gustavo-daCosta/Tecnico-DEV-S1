@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\bin\Debug\net7.0\Repetição - Maior e menor.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\bin\Debug\net7.0\Repetição - Maior e menor.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\bin\Debug\net7.0\Repetição - Maior e menor.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\bin\Debug\net7.0\Repetição - Maior e menor.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\bin\Debug\net7.0\Repetição - Maior e menor.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\refint\Repetição - Maior e menor.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\Repetição - Maior e menor.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Repetição - Maior e menor\obj\Debug\net7.0\ref\Repetição - Maior e menor.dll
