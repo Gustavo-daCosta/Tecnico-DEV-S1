@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\bin\Debug\net7.0\Vetores - Números inversos.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\bin\Debug\net7.0\Vetores - Números inversos.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\bin\Debug\net7.0\Vetores - Números inversos.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\bin\Debug\net7.0\Vetores - Números inversos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\bin\Debug\net7.0\Vetores - Números inversos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\refint\Vetores - Números inversos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\Vetores - Números inversos.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Lista de Exercícios\Vetores - Números inversos\obj\Debug\net7.0\ref\Vetores - Números inversos.dll
