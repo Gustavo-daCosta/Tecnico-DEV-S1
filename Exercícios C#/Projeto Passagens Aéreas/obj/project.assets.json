@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\51908518855\\.nuget\\packages\\": {}
+    "C:\\Users\\macie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\Projeto Passagens Aéreas\\Projeto Passagens Aéreas.csproj",
+      "projectUniqueName": "C:\\Users\\macie\\OneDrive\\Área de Trabalho\\Tecnico-DEV-S1\\Exercícios C#\\Projeto Passagens Aéreas\\Projeto Passagens Aéreas.csproj",
       "projectName": "Projeto Passagens Aéreas",
-      "projectPath": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\Projeto Passagens Aéreas\\Projeto Passagens Aéreas.csproj",
-      "packagesPath": "C:\\Users\\51908518855\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\51908518855\\Desktop\\Tecnico-DEV-S1\\Exercícios C#\\Projeto Passagens Aéreas\\obj\\",
+      "projectPath": "C:\\Users\\macie\\OneDrive\\Área de Trabalho\\Tecnico-DEV-S1\\Exercícios C#\\Projeto Passagens Aéreas\\Projeto Passagens Aéreas.csproj",
+      "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\macie\\OneDrive\\Área de Trabalho\\Tecnico-DEV-S1\\Exercícios C#\\Projeto Passagens Aéreas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\51908518855\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\macie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
