@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\bin\Debug\net7.0\POO C#.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\bin\Debug\net7.0\POO C#.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\bin\Debug\net7.0\POO C#.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\bin\Debug\net7.0\POO C#.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\bin\Debug\net7.0\POO C#.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\refint\POO C#.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\POO C#.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\POO C#\obj\Debug\net7.0\ref\POO C#.dll
