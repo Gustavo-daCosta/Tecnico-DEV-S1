@@ -1,0 +1,15 @@
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\bin\Debug\net7.0\Projeto Sistema de Produtos.exe
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\bin\Debug\net7.0\Projeto Sistema de Produtos.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\bin\Debug\net7.0\Projeto Sistema de Produtos.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\bin\Debug\net7.0\Projeto Sistema de Produtos.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\bin\Debug\net7.0\Projeto Sistema de Produtos.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\refint\Projeto Sistema de Produtos.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\Projeto Sistema de Produtos.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Projeto Sistema de Produtos\obj\Debug\net7.0\ref\Projeto Sistema de Produtos.dll
