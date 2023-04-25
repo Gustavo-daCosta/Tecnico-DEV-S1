@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\bin\Debug\net7.0\Cadastro de alunos.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\bin\Debug\net7.0\Cadastro de alunos.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\bin\Debug\net7.0\Cadastro de alunos.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\bin\Debug\net7.0\Cadastro de alunos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\bin\Debug\net7.0\Cadastro de alunos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\refint\Cadastro de alunos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\Cadastro de alunos.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercícios Programação Orientada a Objetos\Cadastro de alunos\obj\Debug\net7.0\ref\Cadastro de alunos.dll

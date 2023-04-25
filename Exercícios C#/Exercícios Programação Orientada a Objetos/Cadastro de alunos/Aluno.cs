@@ -6,12 +6,23 @@ namespace Cadastro_de_alunos
         public string curso = "";
         public int idade;
         public string rg = "";
-        public bool temBolsa;
         public float media;
         public float mensalidade;
+        public bool temBolsa;
 
-        static float VerMediaFinal() {}
+        public float VerMediaFinal() {
+            return media;
+        }
 
-        static float VerMensalidade() {}
+        public float VerMensalidade() {
+            float valor = this.mensalidade;
+
+            if (this.temBolsa == true && this.media >= 8) {
+                valor -= this.mensalidade * 0.5F;
+            } else if (this.temBolsa == true && this.media > 6) {
+                valor -= this.mensalidade * 0.3F;
+            }
+            return valor;
+        }
     }
 }
