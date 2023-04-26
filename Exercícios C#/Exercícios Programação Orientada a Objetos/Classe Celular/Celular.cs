@@ -7,18 +7,21 @@ namespace Classe_Celular
         public float tamanho;
         public bool estaLigado;
 
-        public bool mudarEstadoCelular() {
+        public bool MudarEstadoCelular() {
             Console.WriteLine(!this.estaLigado ? "Ligando..." : "Desligando...");
             return !this.estaLigado;
         }
 
-        public static class Contato {
-            public static string nome = "";
-            public static string telefone = "";
+        public void FazerLigacao() {
+            Console.WriteLine($"Ligando...");
         }
 
-        public class Globals {
-            public List<Contato> contatos = new List<Contato>();
+        public void EnviarMensagem() {
+            Console.WriteLine("Enviando mensagem...");
+        }
+
+        public string VerEstadoCelular() {
+            return this.estaLigado ? "Ligado" : "Desligado";
         }
     }
 }
