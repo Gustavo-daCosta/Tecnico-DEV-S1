@@ -65,6 +65,7 @@ namespace ClasseElevador
         public void Subir() {
             if (this.AndarAtual < this.NumeroDeAndares) {
                 menuAndar:
+                Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($" === SUBIR ELEVADOR ===");
                 Console.ResetColor();
@@ -85,36 +86,37 @@ namespace ClasseElevador
                 }
 
                 this.AndarAtual = andar;
-                Funcionalidades.Mensagem($"O elevador subir para o andar {this.AndarAtual} com sucesso!", ConsoleColor.Green);
+                Funcionalidades.Mensagem($"O elevador subiu para o {this.AndarAtual}º andar com sucesso!", ConsoleColor.Green);
             } else {
-                Funcionalidades.Mensagem($"O elevador no último andar! Só há como descer andares.");
+                Funcionalidades.Mensagem($"O elevador está no último andar! Só há como descer andares.");
             }
         }
 
         public void Descer() {
             if (this.AndarAtual > 0) {
                 menuAndar:
+                Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($" === DESCER ELEVADOR ===");
                 Console.ResetColor();
                 Console.WriteLine($"\nPara qual andar você deseja ir?");
                 for (int i = this.AndarAtual; i >= 0; i--) {
-                    if (i > this.AndarAtual && i == 0) {
+                    if (i < this.AndarAtual && i == 0) {
                         Console.WriteLine($"    [{i}] Térreo");
-                    } else if (i > this.AndarAtual) {
+                    } else if (i < this.AndarAtual) {
                         Console.WriteLine($"    [{i}] {i}º Andar");
                     }
                 }
                 Console.Write($"\nDigite a opção desejada: ");
                 int andar = int.Parse(Console.ReadLine()!);
 
-                if (andar <= this.AndarAtual || andar > this.NumeroDeAndares) {
+                if (andar >= this.AndarAtual || andar < 0) {
                     Funcionalidades.Mensagem($"Valor inválido digitado! Tente novamente.");
                     goto menuAndar;
                 }
 
                 this.AndarAtual = andar;
-                Funcionalidades.Mensagem($"O elevador desceu para o {this.AndarAtual}º andar com sucesso!", ConsoleColor.Green);
+                Funcionalidades.Mensagem(andar != 0 ? $"O elevador desceu para o {this.AndarAtual}º andar com sucesso!" : "O elevador desceu para o térreo com sucesso!", ConsoleColor.Green);
             } else {
                 Funcionalidades.Mensagem($"Você está no térreo! Só há como subir andares.");
             }

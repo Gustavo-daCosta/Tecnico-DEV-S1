@@ -1,13 +1,21 @@
 ﻿using ClasseElevador;
 using ClasseFuncionalidades;
 
-static int Menu() {
+// Cria uma instância da classe Elevador
+Elevador elevador = new Elevador();
+
+int Menu() {
     Console.Clear();
     menu:
     Console.ForegroundColor = ConsoleColor.Blue;
-    Console.WriteLine($" === SISTEMA DE ELEVADOR ===\n");
+    Console.WriteLine($" === SISTEMA DE ELEVADOR ===\n\n");
 
-    Console.WriteLine($"");
+    string andarAtual = elevador.AndarAtual > 0 ? $"{elevador.AndarAtual}º andar" : "Térreo";
+    Console.ForegroundColor = ConsoleColor.DarkMagenta;
+    Console.WriteLine(@$"Informações do elevador:
+Andar atual: {andarAtual}
+Pessoas no elevador: {elevador.QuantidadePessoas} pessoas
+    ");
 
     Console.ResetColor();
     Console.WriteLine(@$"Selecione uma opção:
@@ -30,8 +38,6 @@ static int Menu() {
     return opcao;
 }
 
-// Cria uma instância da classe Elevador
-Elevador elevador = new Elevador();
 // Inicializa o elevador
 elevador.Inicializar();
 Funcionalidades.Mensagem($"Elevador inicializado com sucesso!", ConsoleColor.Green);
