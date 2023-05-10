@@ -1,18 +1,19 @@
+using System.Globalization;
 using ClasseMoeda;
 
 namespace CambioMoedas
 {
     public static class Cambio
     {
-        public static List<dynamic> Real { get; set; } = new List<dynamic> {"Real Brasileiro", "BRL", 4.99F, "pt-BR"};
-        public static List<dynamic> Euro { get; set; } = new List<dynamic> {"Euro", "EUR", 0.91F, "es-ES"};
-        public static List<dynamic> IeneJapones { get; set; } = new List<dynamic> {"Iene Japonês", "JPY", 135.15F, "ja-JP"};
-        public static List<dynamic> DolarCanadense { get; set; } = new List<dynamic> {"Dólar Canadense", "CAD", 1.34F, "en-CA"};
-        public static List<dynamic> DolarAustraliano { get; set; } = new List<dynamic> {"Dólar Australiano", "AUD", 1.48F, "en-AU"};
-        public static List<dynamic> PesoArgentino { get; set; } = new List<dynamic> {"Peso Argentino", "ARS", 228.11F, "es-AR"};
-        public static List<dynamic> LibraEsterlina { get; set; } = new List<dynamic> {"Libra Esterlina", "GBP", 0.79F, "en-GB"};
+        public static Moeda Real { get; set; } = new Moeda("Real Brasileiro", "BRL", 4.99F, "pt-BR");
+        public static Moeda Euro { get; set; } = new Moeda("Euro", "EUR", 0.91F, "en-FR");
+        public static Moeda IeneJapones { get; set; } = new Moeda("Iene Japonês", "JPY", 135.15F, "ja-JP");
+        public static Moeda DolarCanadense { get; set; } = new Moeda("Dólar Canadense", "CAD", 1.34F, "en-CA");
+        public static Moeda DolarAustraliano { get; set; } = new Moeda("Dólar Australiano", "AUD", 1.48F, "en-AU");
+        public static Moeda PesoArgentino { get; set; } = new Moeda("Peso Argentino", "ARS", 228.11F, "es-AR");
+        public static Moeda LibraEsterlina { get; set; } = new Moeda("Libra Esterlina", "GBP", 0.79F, "en-GB");
 
-        public static List<List<dynamic>> Moedas { get; set; } = new List<List<dynamic>>() {
+        public static List<Moeda> Moedas { get; set; } = new List<Moeda>() {
             Real, Euro, IeneJapones, DolarCanadense, DolarAustraliano, PesoArgentino, LibraEsterlina
         };
 
@@ -20,11 +21,13 @@ namespace CambioMoedas
 
         public static void ListarMoedas() {
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine($" === LISTA DE MOEDAS ===\n");
+            Console.WriteLine($" === LISTA DE MOEDAS ===");
             Console.ResetColor();
-            Console.WriteLine($"NOME | SIGLA | VALOR | CÓD. PAÍS");
-            foreach (List<dynamic> moeda in Moedas) {
-                Console.WriteLine(String.Format("{0, -10} | {1, -10}, {2, 5}, {3, 10}", moeda[0]));
+            foreach (Moeda moeda in Moedas) {
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.WriteLine($"Moeda: {moeda.Nome}");
+                Console.ResetColor();
+                Console.WriteLine(String.Format("{0, -30} {1, -10}", $"Câmbio de troca: {moeda.Valor.ToString("C2", CultureInfo.CreateSpecificCulture(moeda.CodigoPais))}", $"Sigla: {moeda.Sigla}"));
             }
         }
     }

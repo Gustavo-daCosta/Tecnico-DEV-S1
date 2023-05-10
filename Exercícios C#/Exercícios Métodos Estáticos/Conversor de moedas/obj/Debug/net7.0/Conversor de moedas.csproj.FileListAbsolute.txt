@@ -1,0 +1,15 @@
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\bin\Debug\net7.0\Conversor de moedas.exe
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\bin\Debug\net7.0\Conversor de moedas.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\bin\Debug\net7.0\Conversor de moedas.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\bin\Debug\net7.0\Conversor de moedas.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\bin\Debug\net7.0\Conversor de moedas.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\refint\Conversor de moedas.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\Conversor de moedas.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Tecnico-DEV-S1\Exercícios C#\Exercícios Métodos Estáticos\Conversor de moedas\obj\Debug\net7.0\ref\Conversor de moedas.dll
