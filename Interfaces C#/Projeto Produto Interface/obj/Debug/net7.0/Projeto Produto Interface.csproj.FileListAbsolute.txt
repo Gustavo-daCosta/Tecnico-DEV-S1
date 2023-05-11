@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\bin\Debug\net7.0\Projeto Produto Interface.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\bin\Debug\net7.0\Projeto Produto Interface.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\bin\Debug\net7.0\Projeto Produto Interface.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\bin\Debug\net7.0\Projeto Produto Interface.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\bin\Debug\net7.0\Projeto Produto Interface.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\refint\Projeto Produto Interface.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\Projeto Produto Interface.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Interfaces C#\Projeto Produto Interface\obj\Debug\net7.0\ref\Projeto Produto Interface.dll
