@@ -11,9 +11,10 @@ namespace ClasseContatoPessoal
     {
         public string? Cpf { get; set; }
 
-        public bool ValidarCpf(string cpf)
-        {
-            throw new NotImplementedException();
+        public bool ValidarCpf(string cpf) {
+            foreach (string character in cpf.Split()) {
+                if ("0123456789".Contains(character)) {}
+            }
         }
     }
 }
