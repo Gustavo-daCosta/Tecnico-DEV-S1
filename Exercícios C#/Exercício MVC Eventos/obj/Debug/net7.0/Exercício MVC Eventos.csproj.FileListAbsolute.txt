@@ -1,0 +1,15 @@
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\bin\Debug\net7.0\Exercício MVC Eventos.exe
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\bin\Debug\net7.0\Exercício MVC Eventos.deps.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\bin\Debug\net7.0\Exercício MVC Eventos.runtimeconfig.json
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\bin\Debug\net7.0\Exercício MVC Eventos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\bin\Debug\net7.0\Exercício MVC Eventos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.csproj.AssemblyReference.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.AssemblyInfoInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.AssemblyInfo.cs
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.csproj.CoreCompileInputs.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\refint\Exercício MVC Eventos.dll
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.pdb
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\Exercício MVC Eventos.genruntimeconfig.cache
+C:\Users\51908518855\Desktop\Tecnico-DEV-S1\Exercícios C#\Exercício MVC Eventos\obj\Debug\net7.0\ref\Exercício MVC Eventos.dll
