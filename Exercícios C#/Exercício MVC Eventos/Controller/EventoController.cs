@@ -8,6 +8,8 @@ namespace Exercício_MVC_Eventos.Controller
         Evento evento = new Evento();
         EventoView eventoView = new EventoView();
 
+        public void Menu(EventoController controller) => eventoView.Menu(controller);
+
         public void Listar() {
             List<Evento> eventos = evento.Ler();
 
