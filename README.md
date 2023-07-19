@@ -11,6 +11,6 @@ Caso deseje checar a continuação do aprendizado, haverá novos repositórios, 
 
 ---
 
-<div width=100vw style="display: flex; justify-content: center;">
-    <iframe src="https://giphy.com/embed/fOyP7DN8CTCCn4Z7wq" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<p align="center">    
+<img src="https://i.giphy.com/media/fOyP7DN8CTCCn4Z7wq/giphy.gif" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
